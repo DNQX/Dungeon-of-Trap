@@ -1,0 +1,1 @@
+audio_play_sound(bg_music_ambient, true, 1)

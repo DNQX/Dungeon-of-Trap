@@ -1,0 +1,1 @@
+sprite_index = choose(Diamond,Gold_Coin,Silver_Coin,Copper_Coin)
