@@ -30,7 +30,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.11.0.179",
+    "IDEVersion":"2024.8.1.171",
   },
   "name":"Dungeon of Trap",
   "resources":[
@@ -59,6 +59,7 @@
     {"id":{"name":"Main_Menu","path":"rooms/Main_Menu/Main_Menu.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
+    {"id":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
     {"id":{"name":"bg_music_action","path":"sounds/bg_music_action/bg_music_action.yy",},},
     {"id":{"name":"bg_music_ambient","path":"sounds/bg_music_ambient/bg_music_ambient.yy",},},
     {"id":{"name":"Cave_Background","path":"sprites/Cave_Background/Cave_Background.yy",},},
@@ -105,6 +106,7 @@
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"roomId":{"name":"Death_Menu","path":"rooms/Death_Menu/Death_Menu.yy",},},
+    {"roomId":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
